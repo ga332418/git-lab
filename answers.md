@@ -7,4 +7,8 @@
 7. The files have now been committed and it says there is noting to commit, working tree clean.
 8. Author: Gabriel Avink <ga332418@ohio.edu> Date: Fri Sep 9 12:49:37 2022 -0400 Initial Commit
 9. It says the branch is up to date and there is nothing to commit. 
-10. 
+10. The changes do not show up locally right away when changed in git hub.
+11. It rejected my push because there is a newer version of the file on git hub that the local file. 
+12. yes, the changed I made were copied to my local repo.
+13. . .. .git .gitignore README.md
+14. 
