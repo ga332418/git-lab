@@ -11,4 +11,3 @@
 11. It rejected my push because there is a newer version of the file on git hub that the local file. 
 12. yes, the changed I made were copied to my local repo.
 13. . .. .git .gitignore README.md
-14. 
